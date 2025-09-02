@@ -1,0 +1,8 @@
+frontend:
+  - 'src/main/**'
+  - 'src/web/**'
+backend:
+  - 'src/backend/**'
+docs:
+  - '**/*.md'
+  
